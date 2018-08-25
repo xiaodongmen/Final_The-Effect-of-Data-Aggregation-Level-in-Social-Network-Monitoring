@@ -5,7 +5,7 @@ This is the readme file for an example case of the codes corresponding to the si
 The Effect of Data Aggregation Level in Social Network Monitoring
 
 The authors of the paper are: 
-Meng J. Zhao1, Anne R. Driscoll1, Srijan Sengupta, Nathaniel T. Stevens, Ronald D. Fricker Jr. and William H. Woodall
+Meng J. Zhao, Anne R. Driscoll, Srijan Sengupta, Nathaniel T. Stevens, Ronald D. Fricker Jr. and William H. Woodall
 
 
 Corresponding author: Meng J. Zhao
