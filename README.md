@@ -33,3 +33,6 @@ The parameter settings specified by the files contained in this repository/proje
 
 #### The following 1 file contains a simulation example that is used to generate the output shown in Figure 7. For different shift magnitudes, the settings in the code can be changes to generate the desired output, such as those shown in Figure 6
 ###### Network Density Code.R
+
+#### The following 1 file contains an example code that is used to generate the Figure 9 from the simulation output. If interested, the plotting functions in the GGplot2 package in R can be leveraged to generate Figure 10 
+###### Conditional Signal Delay.R
