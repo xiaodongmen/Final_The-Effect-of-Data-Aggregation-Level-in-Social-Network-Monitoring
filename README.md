@@ -30,3 +30,6 @@ The parameter settings specified by the files contained in this repository/proje
 
 #### The following 1 file contains all the custom functions that is used to generate/facilitate the simulations in the 4 files above. The functions contain in this file are parameter setting egnostic and works regardless of the aggregation level or other parameter values. Each function within this file is referred by the simulations.
 ###### Simulation Functions.R
+
+#### The following 1 file contains a simulation example that is used to generate the output shown in Figure 7. For different shift magnitudes, the settings in the code can be changes to generate the desired output, such as those shown in Figure 6
+###### Network Density Code.R
