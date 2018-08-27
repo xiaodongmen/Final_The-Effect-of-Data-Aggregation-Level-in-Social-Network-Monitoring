@@ -1,6 +1,6 @@
 # The-Effect-of-Data-Aggregation-Level-in-Social-Network-Monitoring
 
-This is the readme file for an example case of the codes corresponding to the simulations and visulizations presented to the paper titled:
+This is the readme file for an example case of the codes corresponding to the simulations and visualizations presented in the paper titled:
 
 The Effect of Data Aggregation Level in Social Network Monitoring
 
@@ -16,7 +16,7 @@ All simulation codes are written in the open-source statistical language R (vers
 This repository/project on Github contains the following files corresponding to Figure 1 shown in the revised paper.
 The parameter settings specified by the files contained in this repository/project can be readily changed/updated to generate the simulation results shown in Figures 2 to 5, and Figure 8. Output objects contained within the simulations can also be used to generate Figure 11.
 
-#### All codes are devided into sections with appropriate description for the purpose of the codes in that section
+#### All codes are divided into sections with appropriate description for the purpose of the codes in that section
 
 
 #### The following 4 files contain simulations that is used to generate the output shown in Figure 1. For the simulation results where network data are not aggregated, i.e. W=1. The codes are contained within the the simulation codes for W=2 simulation.
