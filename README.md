@@ -12,9 +12,6 @@ Corresponding author: Meng J. Zhao
 E-mail: xiaodongmen@gmail.com
 
 
-This paper is submitted for consideration for publication on PLoS ONE.
-This version of the paper is a revision completed on 12-August-2018. This revision is intended as a response to the review decision by the PLoS ONE journal reviewers received by the authors on 18-July-2018
-
 All simulation codes are written in the open-source statistical language R (version 3.5.1). Specific packages used for the simulations are specified in the code itself. 
 This repository/project on Github contains the following files corresponding to Figure 1 shown in the revised paper.
 The parameter settings specified by the files contained in this repository/project can be readily changed/updated to generate the simulation results shown in Figures 2 to 5, and Figure 8. Output objects contained within the simulations can also be used to generate Figure 11.
