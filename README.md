@@ -20,16 +20,16 @@ The parameter settings specified by the files contained in this repository/proje
 
 
 #### The following 4 files contain simulations that is used to generate the output shown in Figure 1. For the simulation results where network data are not aggregated, i.e. W=1. The codes are contained within the the simulation codes for W=2 simulation.
-###### V=20_W=2_2communities_50%increase.R
-###### V=20_W=5_2communities_50%increase.R
-###### V=20_W=10_2communities_50%increase.R
-###### V=20_W=20_2communities_50%increase.R
+###### [V=20_W=2_2communities_50%increase.R](https://github.com/xiaodongmen/Final_The-Effect-of-Data-Aggregation-Level-in-Social-Network-Monitoring/blob/master/V%3D20_W%3D2_2communities_50%25increase.R)
+###### [V=20_W=5_2communities_50%increase.R](https://github.com/xiaodongmen/Final_The-Effect-of-Data-Aggregation-Level-in-Social-Network-Monitoring/blob/master/V%3D20_W%3D5_2communities_50%25increase.R)
+###### [V=20_W=10_2communities_50%increase.R](https://github.com/xiaodongmen/Final_The-Effect-of-Data-Aggregation-Level-in-Social-Network-Monitoring/blob/master/V%3D20_W%3D10_2communities_50%25increase.R)
+###### [V=20_W=20_2communities_50%increase.R](https://github.com/xiaodongmen/Final_The-Effect-of-Data-Aggregation-Level-in-Social-Network-Monitoring/blob/master/V%3D20_W%3D20_2communities_50%25increase.R)
 
 #### The following 1 file contains all the custom functions that is used to generate/facilitate the simulations in the 4 files above. The functions contain in this file are parameter setting agnostic and works regardless of the aggregation level or other parameter values. Each function within this file is referred by the simulations.
-###### Simulation Functions.R
+###### [Simulation Functions.R](https://github.com/xiaodongmen/Final_The-Effect-of-Data-Aggregation-Level-in-Social-Network-Monitoring/blob/master/Simulation%20Functions.R)
 
 #### The following 1 file contains a simulation example that is used to generate the output shown in Figure 7. For different shift magnitudes, the settings in the code can be changes to generate the desired output, such as those shown in Figure 6
-###### Network Density Code.R
+###### [Network Density Code.R](https://github.com/xiaodongmen/Final_The-Effect-of-Data-Aggregation-Level-in-Social-Network-Monitoring/blob/master/Network%20Density%20Code.R)
 
 #### The following 1 file contains an example code that is used to generate the Figure 9 from the simulation output. If interested, the plotting functions in the GGplot2 package in R can be leveraged to generate Figure 10 
-###### Conditional Signal Delay.R
+###### [Conditional Signal Delay.R](https://github.com/xiaodongmen/Final_The-Effect-of-Data-Aggregation-Level-in-Social-Network-Monitoring/blob/master/Conditional%20Signal%20Delay.R)
